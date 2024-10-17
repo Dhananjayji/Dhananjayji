@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Dhananjay Singh.
-- 👀 I’m interested in Android App development.
-- 🌱 I’m currently learning Andoid app development.
-- 💞️ I’m looking to collaborate on developing android app.
+- 👀 I’m interested in Full stack development.
+- 💞️ I’m looking to collaborate for projects.
 - 📫 How to reach me ..Email-dhananjay10081998@gmail.com
                         Mobile No-7524078507
 
